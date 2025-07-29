@@ -6,7 +6,7 @@ English | [中文](README.zh_CN.md)
 
 PR-ZY is a modular humanoid robot with high dof developed and open-sourced. It is built upon AgiBot's open-source framework AimRT as middleware and using reinforcement learning for locomotion control.
 
-This project is about the accompanying software for AgiBot X1, including multiple functional modules such as model inference, platform driver, and software simulation.
+This project is about the accompanying software, including multiple functional modules such as model inference, platform driver, and software simulation.
 
 For detailed tutorials on `AimRT` framework, please visit the [AimRT official website](https://aimrt.org/).
 
